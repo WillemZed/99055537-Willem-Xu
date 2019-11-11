@@ -3,7 +3,7 @@ body {
 	font-size: 14px;
 	background-color: grey;
 }
-a:hover {
+a: hover {
 	background-color: white;
 }
 a {
@@ -27,7 +27,7 @@ h1 {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	text-align: center;
+	grid-column: 2/9;
 	height: 120px;
 }
 .menu-items {
